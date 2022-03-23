@@ -1,0 +1,94 @@
+body{
+background-color:#9FE2BF;
+margin: 0px;
+padding: 16px;
+font-family: Georgia;
+}
+
+
+
+form{
+background-color:lavender;
+width: 1000px;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: auto;
+text-align: center;
+padding-bottom: auto;
+border: 1px solid #ffffff;
+font-family: Georgia;
+}
+
+#heading{
+  font-size: 32px;
+  padding-top: 50px; 
+  padding-bottom: 0px; }
+
+#social{
+  background-color:lavender;
+  padding: 24px; }
+
+.box{
+  font-size: 18px;
+  padding-bottom: 12px;
+  margin-bottom: 36px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #ffffff;
+  width: 100%; }
+
+#link{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 18px;
+  color: white;
+  border: none;
+}
+
+#input{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  padding-right: 80px; }
+
+#select{
+  padding-top: 80px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  padding-right: 80px; }
+
+#button{
+  background-color: #EC7063 ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  color: white;
+  border: none; }
+
+
+
+p{
+text-align: left;
+background-color:lavender;
+font-size: 18px;
+padding-bottom: 5px;
+margin: 0;
+color :black;
+font-family: Georgia;}
+
+ul{
+list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: left;
+font-family:"Georgia"
+}
